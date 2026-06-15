@@ -1,0 +1,6 @@
+{
+  "name": "Global Communications Intelligence Brief Vol.01",
+  "description": "A modern, minimalist, high-end magazine-style social media industry report.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
